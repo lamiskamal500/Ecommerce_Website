@@ -1,0 +1,17 @@
+body{
+   background-color: #212529;
+   color: white;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+hr{
+    width: 600px;
+    margin-right: 1000px;
+}
+p{
+    font-size: 20px;
+}
+.name{
+    font-size: 25px;
+}
+
+
